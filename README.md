@@ -1,5 +1,5 @@
 ###  DATE: 24/09/2025
-###  NAME:VIKAASH P
+###  NAME:Vikaash P
 ###  ROLL NO : 212223240180
 ###  DEPARTMENT: B.Tech-AI&ML
 
